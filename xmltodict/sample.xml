@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book id="001">
+        <title>A Game of Thrones</title>
+        <author>George R. R. Martin</author>
+        <genre>Fantasy</genre>
+        <published_year>1996</published_year>
+        <publisher>Bantam Spectra</publisher>
+    </book>
+    <book id="002">
+        <title>The Great Gatsby</title>
+        <author>F. Scott Fitzgerald</author>
+        <genre>Classic</genre>
+        <published_year>1925</published_year>
+        <publisher>Charles Scribner's Sons</publisher>
+    </book>
+    <book id="003">
+        <title>To Kill a Mockingbird</title>
+        <author>Harper Lee</author>
+        <genre>Classic</genre>
+        <published_year>1960</published_year>
+        <publisher>J. B. Lippincott and Co.</publisher>
+    </book>
+    <book id="004">
+        <title>The Catcher in the Rye</title>
+        <author>J. D. Salinger</author>
+        <genre>Classic</genre>
+        <published_year>1951</published_year>
+        <publisher>Little, Brown and Company</publisher>
+    </book>
+</library>
